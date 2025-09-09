@@ -1,5 +1,4 @@
 ### argo一键安装
-
 ```bash
 bash <(curl -l -s https://raw.githubusercontent.com/wtom2561/free-vps-py/refs/heads/main/test.sh)
 ```
@@ -25,9 +24,6 @@ agsb del
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh) del   
 ```
-
-
-
 
 ### XTHHP一键安装
 ```
